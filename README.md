@@ -28,7 +28,7 @@ Sqlalchemy
 
 -  `git clone https://github.com/BronzeCrab/scrapy_task.git`
 
-Запускаем скрипт, создающий бд в sqlite
+Запускаем функцию, создающую бд в sqlite
 
 -  `cd scrapy_task`
 -  `python`
