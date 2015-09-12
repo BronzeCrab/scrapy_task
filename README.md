@@ -28,7 +28,7 @@ Sqlalchemy
 
 -  `git clone https://github.com/BronzeCrab/scrapy_task.git`
 
-Запускаем функцию, создающую sqlite бд под названием `test.db`
+Запускаем функцию, создающую sqlite бд под названием `test.db`. Скрипт использует файл `schema.sql`. В котором определена таблица `titles`.
 
 -  `cd scrapy_task`
 -  `python`
